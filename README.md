@@ -1,4 +1,4 @@
-# vscode-config
+# MY VSCODE configuration
 
 Extensions 
 ---
